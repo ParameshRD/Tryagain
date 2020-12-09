@@ -1,5 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-devopscasestudy,com.example.demo.model,Product,52,0,0,0,22,0,15,0,15,0
-devopscasestudy,com.example.demo.api,ProductApi,56,0,0,0,11,0,6,0,6,0
-devopscasestudy,com.example.demo,ServletInitializer,12,0,0,0,2,0,2,0,2,0
-devopscasestudy,com.example.demo,DemoApplication,8,0,0,0,3,0,2,0,2,0
