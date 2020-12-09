@@ -10,7 +10,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 </parent>
 <groupId>com.example</groupId>
 <artifactId>Tryagain</artifactId>
-<version>0.0.1-git log</version>
+<version>0.0.1-SNAPSHOT</version>
 <packaging>war</packaging>
 <name>Tryagain</name>
 <description>Demo project for Spring Boot</description>
