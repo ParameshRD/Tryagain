@@ -32,9 +32,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 </distributionManagement>
 
 <scm>
-<connection>scm:git:git@github.com:ParameshRD/devopscasestudy.git</connection>
-<developerConnection>scm:git:git@github.com:ParameshRd/devopscasestudy.git</developerConnection>
-<url>git@github.com:ParameshRD/devopscasestudy.git</url>
+<connection>scm:git:git@github.com:ParameshRD/Tryagain.git</connection>
+<developerConnection>scm:git:git@github.com:ParameshRd/Tryagain.git</developerConnection>
+<url>git@github.com:ParameshRD/Tryagain.git</url>
 <tag>HEAD</tag>
 </scm>
 
