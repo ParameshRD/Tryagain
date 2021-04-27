@@ -12,5 +12,6 @@ import com.example.demo.model.Product;
 public interface ProductRepository  extends JpaRepository<Product,Integer>{
 	List<Product> findByPriceGreaterThan(double price);
 	//List<Product> insertByID(int productId);
+	//List<Product> insertByID(int productId); for checking
 
 }
